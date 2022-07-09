@@ -1,0 +1,169 @@
+body {
+
+    background-color: black;
+}
+
+h1 {
+
+    color: green;
+}
+
+label {
+
+    font-family: monospace;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.encabezado {
+
+    background: teal;
+    color: red;
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.menu {
+
+    background-color: teal;
+    width: 18%;
+    height: 100%;
+    float:left;
+
+    padding: 1% 1% 1% 1%;
+}
+
+.contenido {
+
+    background-color: black;
+    height: 100%;
+    width: 76%;
+    float:left;
+    text-align: center;
+
+    padding: 0% 2% 2% 2%;
+}
+
+.pie {
+
+    clear: left;
+
+    background-color: teal;
+    color: white;
+    font-family: unset;
+    font-size: 18px;
+
+    text-align: center;
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+ul.menu_principal { 
+
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    font-family: var;
+    font-size: 15px;
+
+    border: 1px solid #666;
+}
+
+ul.menu_principal li {
+
+    background: lightyellow;
+    border: 1px solid #666;
+}
+
+ul.menu_principal li:hover {
+
+    background: blueviolet;
+    font-family: cursive;
+}
+
+ul.menu_principal li a {
+
+    text-decoration: none;
+    color: darkred;
+    display: block;
+
+    padding: 5px 5px 5px 5px;
+}
+
+input {
+
+    font-family: cursive;
+    font-size: 16px;
+
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+input:focus:invalid {
+
+    background-color: #fecaca;
+}
+
+input:focus:valid {
+
+    background-color: #c3fec1;
+}
+
+table {
+
+    background-color: teal;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+
+
+th, td {
+
+    font-family: initial;
+    font-size: 16px;
+    background-color: red;
+}
+
+th {
+
+    background-color: red;
+}
+th:hover {
+    
+    background-color: darkorange;
+    font-weight: unset;
+}
+td:hover {
+    
+    background-color: chocolate;
+    font-weight: initial;
+}
+
+.alerta {
+
+    padding: 2% 2% 2% 2%;
+
+    font-family: fantasy;
+    font-size: 16px;
+    background-color: #fecaca;
+}
