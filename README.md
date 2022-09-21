@@ -28,7 +28,7 @@ Abra [http://localhost](http://localhost) para acceder al indice de proyectos en
 
 * [PHP](https://www.php.net/downloads.php) - PHP es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HTML, siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboración de páginas web.
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - PCSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.
 
 ## Autor ✒️
 
