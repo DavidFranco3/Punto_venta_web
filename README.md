@@ -22,7 +22,7 @@ En la carpeta para proyectos web de tu Gestor de Bases de Datos, guarda la carpe
 ### `Desde el navegador`
 
 Ejecuta la aplicación en modo de desarrollo.
-Abra [http://localhost](http://localhost) para acceder al indice de proyectos en el navegador, una vez ahí selecciona la carpeta con el nombre del proyecto.
+Abra [http://localhost](http://localhost) para acceder al indice de proyectos en el navegador, una vez ahí selecciona la carpeta con el nombre del proyecto y se ejecutara el proyecto en el navegador.
 
 ## Construido con 🛠️
 
